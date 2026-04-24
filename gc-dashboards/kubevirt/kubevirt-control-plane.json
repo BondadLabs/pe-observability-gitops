@@ -1,6 +1,11 @@
 {
   "apiVersion": "dashboard.grafana.app/v1",
   "kind": "Dashboard",
+  "metadata": {
+    "annotations": {
+      "grafana.app/folder": "bwhfjgsrviryn",
+    }
+  }
   "spec": {
     "annotations": {
       "list": [

@@ -3,9 +3,9 @@
   "kind": "Dashboard",
   "metadata": {
     "annotations": {
-      "grafana.app/folder": "bwhfjgsrviryn",
+      "grafana.app/folder": "bwhfjgsrviryn"
     }
-  }
+  },
   "spec": {
     "annotations": {
       "list": [

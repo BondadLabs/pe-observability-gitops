@@ -4,7 +4,8 @@
   "metadata": {
     "annotations": {
       "grafana.app/folder": "bwhfjgsrviryn"
-    }
+    },
+    "name": "kubevirt-control-plane"
   },
   "spec": {
     "annotations": {
